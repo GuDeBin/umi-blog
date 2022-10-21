@@ -6,13 +6,3 @@
 /src/.umi-production
 /src/.umi-test
 /dist
-
-# umi-blog-example
-/.mfsu
-.env
-.idea
-.output
-.vercel
-
-# API directory is built by Umi
-/api
